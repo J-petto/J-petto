@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello, git
+    
+    이름 : 황민지
+    나이 : 99년생(만 24살)
 
 <!--
 **J-petto/J-petto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-git hub main test
+
