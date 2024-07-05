@@ -1,10 +1,8 @@
-### Profile
-
----
-
-- 황민지
-- 1999.07.15
-
+## Profile
+``` 
+황민지
+1999.07.15
+```
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-petto&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-petto&layout=compact)
