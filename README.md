@@ -15,16 +15,16 @@
 <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=![img.png](img.png)&labelColor=ED8B00"/>
 
 #### Tech Stack
-<img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=000000&labelColor=ffffff"/>
-<img src="https://img.shields.io/badge/react--native-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff"/>
+<img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=ffffff&labelColor=000000"/>
+<img src="https://img.shields.io/badge/react--native-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=61DAFB"/>
 
 #### Tools
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff"/>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=181717&labelColor=ffffff"/>
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=000000&labelColor=ffffff"/>
-<img src="https://img.shields.io/badge/intelli__J_idea-000000?style=for-the-badge&logo=intellijidea&logoColor=000000&labelColor=ffffff"/>
-<img src="https://img.shields.io/badge/eclipse_ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=2C2255&labelColor=ffffff"/>
-<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=0052CC&labelColor=ffffff"/>
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=F05032"/>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=181717"/>
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff&labelColor=000000"/>
+<img src="https://img.shields.io/badge/intelli__J_idea-000000?style=for-the-badge&logo=intellijidea&logoColor=ffffff&labelColor=000000"/>
+<img src="https://img.shields.io/badge/eclipse_ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=ffffff&labelColor=2C2255"/>
+<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=ffffff&labelColor=0052CC"/>
 
 #### Project
 <a href="https://jeppetto.notion.site/452644c2f7004a16b446fa71a34af56d?v=7f8ae625d99d40d5b07781050ad847c7&pvs=4" target="_blank"><img src="https://img.shields.io/badge/네이버_클라우드_비트캠프_프로젝트_모음-d7f8e8?style=for-the-badge&logo=naver&logoColor=#03C75A"/></a>
