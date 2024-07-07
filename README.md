@@ -17,8 +17,12 @@
 
 <span style="color: #50d3a1">
 
-### [네이버 클라우드 비트캠프](https://jeppetto.notion.site/452644c2f7004a16b446fa71a34af56d?v=7f8ae625d99d40d5b07781050ad847c7&pvs=4)
-
+<h3>
+<a href="https://jeppetto.notion.site/452644c2f7004a16b446fa71a34af56d?v=7f8ae625d99d40d5b07781050ad847c7&pvs=4"
+class="bitcamp">
+[네이버 클라우드 비트캠프 프로젝트 바로가기]
+</a>
+</h3>
 </span>
 
 <div align="center">
@@ -34,9 +38,9 @@
 </div>
 
 <style type="text/css">
-.bitcamp:link{color: #000000}
+.bitcamp:link{color: #50d3a1}
 .bitcamp:visited{color: #c4c4c4}
-.bitcamp:hover{color: #50d3a1}
+.bitcamp:hover{color: #3aeeb5}
 </style>
 
 
