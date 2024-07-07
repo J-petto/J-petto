@@ -1,5 +1,5 @@
 
-<div align="center">
+<div>
 
 ![header](https://capsule-render.vercel.app/api?text=Hi-nl-My%20git&fontSize=28&fontAlign=75&fontAlign=80&fontAlignY=50&fontAlignY=70&type=waving&color=gradient=0:0f8ad7,100:73c4a9)
 
@@ -16,7 +16,7 @@
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 
-![Bitcamp_Project](https://jeppetto.notion.site/452644c2f7004a16b446fa71a34af56d?v=7f8ae625d99d40d5b07781050ad847c7)
+[Bitcamp_Project](https://jeppetto.notion.site/452644c2f7004a16b446fa71a34af56d?v=7f8ae625d99d40d5b07781050ad847c7)
 </div>
 
 <!--
