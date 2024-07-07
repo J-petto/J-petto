@@ -1,4 +1,4 @@
-<div style="background-color: #000000">
+<div>
 
 ![header](https://capsule-render.vercel.app/api?&type=waving&color=0:73c4a9,100:0f8ad7)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=D2coding&pause=300&color=316C48&random=false&width=435&lines=%EC%BD%94%EB%94%A9+%EA%B3%B5%EB%B6%80+ing...)](https://git.io/typing-svg)
@@ -10,6 +10,8 @@
 > 생년월일 : 1999.07.15
 >
 > 좌우명 : 흘러가는대로 살자
+
+
 
 #### Studying
 <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=![img.png](img.png)&labelColor=ED8B00"/>
@@ -27,7 +29,7 @@
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=ffffff&labelColor=0052CC"/>
 
 #### Project
-<a href="https://jeppetto.notion.site/452644c2f7004a16b446fa71a34af56d?v=7f8ae625d99d40d5b07781050ad847c7&pvs=4" target="_blank"><img src="https://img.shields.io/badge/네이버_클라우드_비트캠프_프로젝트_모음-d7f8e8?style=for-the-badge&logo=naver&logoColor=#03C75A"/></a>
+네이버 클라우드 비트캠프<br><a href="https://jeppetto.notion.site/452644c2f7004a16b446fa71a34af56d?v=7f8ae625d99d40d5b07781050ad847c7&pvs=4" target="_blank"><img src="https://img.shields.io/badge/프로젝트_모음_보러가기-d7f8e8?style=for-the-badge&logo=naver&logoColor=#03C75A"/></a>
 
 ---
 <div align="center">
