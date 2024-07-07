@@ -17,20 +17,9 @@
 
 <span style="color: #50d3a1">
 
-### 네이버 클라우드 비트캠프 
+### [네이버 클라우드 비트캠프](https://jeppetto.notion.site/452644c2f7004a16b446fa71a34af56d?v=7f8ae625d99d40d5b07781050ad847c7&pvs=4)
 
 </span>
-<a href="https://jeppetto.notion.site/452644c2f7004a16b446fa71a34af56d?v=7f8ae625d99d40d5b07781050ad847c7&pvs=4"
-   class="bitcamp"
-   style="
-        text-decoration: none;
-        font-weight: bold;
-">
-[Bitcamp_Project]
-</a>
-
-
-
 
 <div align="center">
 
