@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?height=300&text=Hi-nl-My%git&fontSize=23&fontAlign=75&fontAlign=80&type=venom&color=gradient=0:0f8ad7,100:73c4a9)
+![header](https://capsule-render.vercel.app/api?text=Hi-nl-My%git&fontSize=28&fontAlign=75&fontAlign=80&type=waving&color=gradient=0:0f8ad7,100:73c4a9)
 
 ## Profile
 ``` 
