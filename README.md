@@ -1,4 +1,4 @@
-<div style="color: #000000">
+<div style="color: #ffffff">
 
 ![header](https://capsule-render.vercel.app/api?&type=waving&color=0:73c4a9,100:0f8ad7)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=D2coding&pause=300&color=316C48&random=false&width=435&lines=%EC%BD%94%EB%94%A9+%EA%B3%B5%EB%B6%80+ing...)](https://git.io/typing-svg)
