@@ -38,7 +38,11 @@
 </div>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{J-petto}"/>
+<img
+  src="https://render.gitanimals.org/farms/J-petto"
+  width="600"
+  height="300"
+/>
 </a>
 
 <!--
