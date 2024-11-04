@@ -10,7 +10,7 @@
 > 좌우명 : 흘러가는대로 살자
 
 #### Studying
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=!javascript&logoColor=ffffff&labelColor=#F7DF1E"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff&labelColor=#F7DF1E"/>
 
 #### Tech Stack
 <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=![img.png](img.png)&labelColor=ED8B00"/>
