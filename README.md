@@ -34,7 +34,13 @@
 ---
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-petto&show_icons=true&theme=radical)
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/J-petto"
+  width="600"
+  height="300"
+/>
+</a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-petto&layout=compact)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:73c4a9,100:0f8ad7)
