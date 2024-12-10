@@ -48,14 +48,6 @@
 
 </div>
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/J-petto"
-  width="600"
-  height="300"
-/>
-</a>
-
 <!--
 **J-petto/J-petto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
