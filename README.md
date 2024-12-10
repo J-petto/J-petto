@@ -16,12 +16,7 @@
 <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=![img.png](img.png)&labelColor=ED8B00"/> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=#E34F26"/> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff&labelColor=#1572B6"/> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=ffffff&labelColor=#6DB33F"/> <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=ffffff&labelColor=000000"/> <img src="https://img.shields.io/badge/react--native-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=61DAFB"/>
 
 #### Tools
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=F05032"/>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=181717"/>
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff&labelColor=000000"/>
-<img src="https://img.shields.io/badge/intelli__J_idea-000000?style=for-the-badge&logo=intellijidea&logoColor=ffffff&labelColor=000000"/>
-<img src="https://img.shields.io/badge/eclipse_ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=ffffff&labelColor=2C2255"/>
-<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=ffffff&labelColor=0052CC"/>
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=F05032"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=181717"/> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff&labelColor=000000"/> <img src="https://img.shields.io/badge/intelli__J_idea-000000?style=for-the-badge&logo=intellijidea&logoColor=ffffff&labelColor=000000"/> <img src="https://img.shields.io/badge/eclipse_ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=ffffff&labelColor=2C2255"/> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=ffffff&labelColor=0052CC"/>
 
 #### Project
 네이버 클라우드 비트캠프<br><a href="https://jeppetto.notion.site/452644c2f7004a16b446fa71a34af56d?v=7f8ae625d99d40d5b07781050ad847c7&pvs=4" target="_blank"><img src="https://img.shields.io/badge/프로젝트_모음_보러가기-d7f8e8?style=for-the-badge&logo=naver&logoColor=#03C75A"/></a>
