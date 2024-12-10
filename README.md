@@ -8,6 +8,8 @@
 > 생년월일 : 1999.07.15
 >
 > 좌우명 : 흘러가는대로 살자
+>
+> 블로그 : [제펫토 블로그](https://j-petto.github.io/)
 
 #### Studying
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff&labelColor=#2496ED"/> <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=ffffff&labelColor=#D24939"/>
@@ -19,7 +21,15 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=F05032"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=181717"/> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff&labelColor=000000"/> <img src="https://img.shields.io/badge/intelli__J_idea-000000?style=for-the-badge&logo=intellijidea&logoColor=ffffff&labelColor=000000"/> <img src="https://img.shields.io/badge/eclipse_ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=ffffff&labelColor=2C2255"/> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=ffffff&labelColor=0052CC"/>
 
 #### Project
-네이버 클라우드 비트캠프<br><a href="https://jeppetto.notion.site/452644c2f7004a16b446fa71a34af56d?v=7f8ae625d99d40d5b07781050ad847c7&pvs=4" target="_blank"><img src="https://img.shields.io/badge/프로젝트_모음_보러가기-d7f8e8?style=for-the-badge&logo=naver&logoColor=#03C75A"/></a>
+[비트캠프 네이버 클라우드 데브옵스 과정]  
+**미니 프로젝트**  
+[1. CLI 가계부](https://jeppetto.notion.site/046c594a0e5249d98e1fe7de41c13e60)  
+[2. CLI TodoList](https://jeppetto.notion.site/cdc4fc25125c4b6a917e6d44155e99c7)  
+[3. CLI 도서대출시스템](https://jeppetto.notion.site/7a763fd599c8425ab0785687cd035e13)  
+[4. CLI 빙고게임](https://jeppetto.notion.site/20ae059e95ea45ccbb1b65d698e0c6b8)  
+
+**최종 프로젝트**  
+[기억하 길](https://jeppetto.notion.site/157030f8925e80288dcefdf1d64b6c2e)
 
 ---
 <div align="center">
