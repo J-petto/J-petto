@@ -42,6 +42,9 @@
 />
 </a>   
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-petto&hide=contribs,prs&show_icons=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-petto&layout=compact)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:73c4a9,100:0f8ad7)
