@@ -43,7 +43,8 @@
 </a>   
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-petto&hide=contribs,prs&show_icons=true)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-petto&hide=contribs,prs&show_icons=true)-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-pettoa&theme=vue&hide_border=false)<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-petto&layout=compact)
 
